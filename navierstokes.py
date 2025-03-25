@@ -1,3 +1,5 @@
+NOTE: THIS PARTICULAR CODE/FILE IS AN EXAMPLE AND IS NOT MY CODE PROPERTY
+
 import random
 from pathlib import Path
 import glm
